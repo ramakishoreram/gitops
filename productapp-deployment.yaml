@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: productapp-k8
-        image: kpradeep/devops-groovy-products
+        image: kpradeep/devops-groovy-products-ci-cd-0.0.1-SNAPSHOT
         resources:
           limits:
             memory: "128Mi"
